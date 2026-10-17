@@ -27,3 +27,5 @@ split("\\s+"): separa cada comando escrito en palabras.
 try/catch: evita que el programa se caiga si se escribe texto donde va un número.
 equalsIgnoreCase: compara los nombres sin distinguir mayúsculas.
 String.format(Locale.US, ...) y StringBuilder: muestran el peso con un decimal y arman el reporte por partes.
+
+Se usó asistencia de IA (Claude, de Anthropic) para el diseño del código y la explicación de los conceptos nuevos. El código fue revisado, probado y subido a GitHub por mí.
